@@ -5,16 +5,6 @@ This project was developed as an internship project to practice frontend develop
 
 ---
 
-## 🚀 Live Demo
-
-(Add your deployed link here)
-
-Example:
-
-https://your-username.github.io/todo-app/
-
----
-
 ## 📌 Project Overview
 
 The To-Do List Application allows users to:
