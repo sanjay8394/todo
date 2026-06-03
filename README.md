@@ -24,13 +24,13 @@ The application works smoothly on desktop and mobile devices with a responsive d
 
 This project helped me understand:
 
-- HTML semantic structure
-- CSS layouts and responsive design
-- JavaScript fundamentals
-- DOM manipulation
-- Event handling
-- Browser Local Storage
-- Dynamic UI updates
+✅ HTML semantic structure
+✅ CSS layouts and responsive design
+✅ JavaScript fundamentals
+✅ DOM manipulation
+✅ Event handling
+✅ Browser Local Storage
+✅ Dynamic UI updates
 
 ---
 
@@ -65,3 +65,13 @@ This project helped me understand:
 ---
 
 ## 📂 Project Structure
+
+todo-app/
+│
+├── index.html
+│
+├── style.css
+│
+├── script.js
+│
+└── README.md
