@@ -46,10 +46,10 @@ This project helped me understand:
 
 ### Bonus Features
 
-🌙 Dark Mode  
-✏️ Edit Tasks  
-📊 Task Counter  
-⌨️ Add tasks using Enter key  
+- Dark Mode  
+- Edit Tasks  
+- Task Counter  
+- Add tasks using Enter key  
 
 ---
 
