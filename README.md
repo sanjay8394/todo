@@ -24,13 +24,13 @@ The application works smoothly on desktop and mobile devices with a responsive d
 
 This project helped me understand:
 
-✅ HTML semantic structure
-✅ CSS layouts and responsive design
-✅ JavaScript fundamentals
-✅ DOM manipulation
-✅ Event handling
-✅ Browser Local Storage
-✅ Dynamic UI updates
+✅ HTML semantic structure 
+✅ CSS layouts and responsive design 
+✅ JavaScript fundamentals 
+✅ DOM manipulation 
+✅ Event handling 
+✅ Browser Local Storage 
+✅ Dynamic UI updates 
 
 ---
 
